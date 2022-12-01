@@ -17,6 +17,6 @@ const equalParan = (str)  => {
 
 
 
-str = '"(Oh Noes!))"'
+str = '"(Oh Noes!)()"'
 hello = equalParan(str)
 console.log(hello)
